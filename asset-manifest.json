@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/musicfly/static/css/main.0310c554.chunk.css",
+    "main.js": "/musicfly/static/js/main.1bc48ce2.chunk.js",
+    "main.js.map": "/musicfly/static/js/main.1bc48ce2.chunk.js.map",
+    "runtime-main.js": "/musicfly/static/js/runtime-main.aa623c7e.js",
+    "runtime-main.js.map": "/musicfly/static/js/runtime-main.aa623c7e.js.map",
+    "static/js/2.4b5d8cb0.chunk.js": "/musicfly/static/js/2.4b5d8cb0.chunk.js",
+    "static/js/2.4b5d8cb0.chunk.js.map": "/musicfly/static/js/2.4b5d8cb0.chunk.js.map",
+    "index.html": "/musicfly/index.html",
+    "static/css/main.0310c554.chunk.css.map": "/musicfly/static/css/main.0310c554.chunk.css.map",
+    "static/js/2.4b5d8cb0.chunk.js.LICENSE.txt": "/musicfly/static/js/2.4b5d8cb0.chunk.js.LICENSE.txt",
+    "static/media/default-user.347d90fa.svg": "/musicfly/static/media/default-user.347d90fa.svg",
+    "static/media/fone.64c20545.svg": "/musicfly/static/media/fone.64c20545.svg",
+    "static/media/NotFound.css": "/musicfly/static/media/violao.ea8c8262.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa623c7e.js",
+    "static/js/2.4b5d8cb0.chunk.js",
+    "static/css/main.0310c554.chunk.css",
+    "static/js/main.1bc48ce2.chunk.js"
+  ]
+}
