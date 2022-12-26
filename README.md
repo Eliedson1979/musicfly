@@ -1,8 +1,8 @@
-# 🎹 Oceanfy
+# ![image](https://user-images.githubusercontent.com/18033491/209581807-6332648f-15f4-4c6c-941e-0d46334fe65b.png) MusicFly
 
-![Preview Projeto](./imgs/Readme-gif.gif)
+![Preview Projeto](./src/images/preview.png)
 
-## Acesse o projeto clicando <a href="https://lauropera.github.io/oceanfy/">AQUI</a>
+## Acesse o projeto clicando <a href="https://eliedson1979.github.io/musicfly/">AQUI</a>
 
 <br />
 
@@ -23,13 +23,13 @@ Nesse projeto desenvolvemos uma aplicação para ouvir músicas. Consultamos uma
 ### 1 - Clone o repositório:
 
 ```
-git clone git@github.com:lauropera/oceanfy.git
+git clone git@github.com:Eliedson1979/musicfly.git
 ```
 
 ### 2 - Apos ter o repositório clonado em sua maquina, execute este comando para acessar a pasta do projeto:
 
 ```sh
-cd oceanfy
+cd musicfly
 ```
 
 ### 3 - Dentro da pasta do projeto, execute o comando abaixo para instalar as dependências do projeto:
@@ -67,16 +67,6 @@ Abrindo na porta padrão que o React usa: <http://localhost:3000/> em seu navega
   </details>
 <br />
 
-# 📱 Mobile
-
-![Mobile Screenshot](./imgs/Mobile-Preview.png)
-
-# 📷 Screenshots
-
-![PC Screenshot](./imgs/Albums-DesktopPreview.png)
-![PC Screenshot](./imgs/Profile-DesktopPreview.png)
-![PC Screenshot](./imgs/Songs-DesktopPreview.png)
-
 ## ⚙️ Tecnologias
 
 * HTML5
@@ -85,8 +75,3 @@ Abrindo na porta padrão que o React usa: <http://localhost:3000/> em seu navega
 * React.js
 * React Router
 
-#
-
-<div>
-  <p align="center">🍐</p>
-</div>
